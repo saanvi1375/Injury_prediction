@@ -11,7 +11,7 @@ To get started, download the datasets InjuryRecord.csv and PlayList.csv from [he
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/injury-prediction.git
+git clone https://github.com/saanvi1375/Injury_prediction.git
 ```
 
 ## Usage
