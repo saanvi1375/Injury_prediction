@@ -20,7 +20,7 @@ Ensure you have the necessary dependencies installed. Then, run all the cells in
 
 ## Authors
 
-Saanvi R Prabhu (1RVU22CSE136)   
-Chinmay Umesh (1RVU22CSE042)  
-Deekshith R Prabhu (1RVU22CSE046)  
-Durga Prasad C Reddy (1RVU22CSE051)  
+Saanvi R Prabhu (https://github.com/saanvi1375)   
+Chinmay Umesh (https://github.com/Chinmay-26)  
+Deekshith R Prabhu (https://github.com/rpdeeksh)  
+Durga Prasad C Reddy (https://github.com/durgaprasad-2103)  
